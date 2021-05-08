@@ -1,5 +1,5 @@
 # Picture-puzzle-game-
-Team-members: Kenzhebek kyzy Maral COM-19, Ala-Too University, Computer Science department 
+Team-members: <Kenzhebek kyzy Maral> COM-19, Ala-Too University, Computer Science department 
 
 Final project of second semester of  2020 on data structures
 
