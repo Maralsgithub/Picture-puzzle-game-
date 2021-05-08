@@ -2,7 +2,7 @@
 
 **##- Final project of second semester of  2020 on data structures**
 
-**- Kenzhebek kyzy Maral COM-19, Ala-Too University, Computer Science department
+**- Kenzhebek kyzy Maral COM-19, Ala-Too University, Computer Science department**
 
 *- Project is  built with Java using AWT/Swing*
 
