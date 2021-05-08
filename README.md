@@ -1,6 +1,6 @@
 # Picture-puzzle-game-
 
-**##- Final project of second semester of  2020 on data structures**
+**- Final project of second semester of  2020 on data structures**
 
 **- Kenzhebek kyzy Maral COM-19, Ala-Too University, Computer Science department**
 
